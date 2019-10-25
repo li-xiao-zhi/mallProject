@@ -4,6 +4,11 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/mall_servlce/pom.xml" />
+        <option value="$PROJECT_DIR$/mall_order/pom.xml" />
+        <option value="$PROJECT_DIR$/mall_admin/pom.xml" />
+        <option value="$PROJECT_DIR$/mall_commodity/pom.xml" />
+        <option value="$PROJECT_DIR$/mall_comment/pom.xml" />
+        <option value="$PROJECT_DIR$/mall_promotion/pom.xml" />
       </list>
     </option>
   </component>

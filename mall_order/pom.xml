@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.mr.mell</groupId>
-    <artifactId>mell_promotion</artifactId>
+    <artifactId>mell_order</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>mell_promotion</name>
     <description>Demo project for Spring Boot</description>
